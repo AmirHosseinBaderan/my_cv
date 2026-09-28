@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "author": "Amir Hossein Baderan",
+    "domain": "amirhossein.dev",
+    "githubUrl": "https://github.com/amirhosseinbaderan",
+    "linkedinUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+    "email": "amirhosseinbaderan.dev@proton.me",
+    "status": "ONLINE",
+    "location": "REMOTE / TEHRAN",
+    "year": 2026
+  },
+  "hero": {
+    "badge": "FULL-STACK DEVELOPER / AI ENGINEER",
+    "titlePrefix": "I build software systems and explore ",
+    "titleHighlight": "intelligent systems",
+    "titleSuffix": ".",
+    "subtitle": "Full-stack developer focused on backend engineering, AI systems, and learning how complex software works from the inside out.",
+    "ctaProjects": "View Projects",
+    "ctaGithub": "GitHub Profile",
+    "systemStatus": "SYS_READY // x86_64",
+    "terminal": {
+      "userHost": "amirhossein@arch: ~",
+      "terminalInfo": "zsh [tty1]",
+      "whoami": "amirhossein",
+      "focusItems": [
+        ":: backend",
+        ":: machine-learning",
+        ":: systems",
+        ":: ai-research"
+      ],
+      "uptimeFocus": "APIs · Distributed Models · Vector Retrieval",
+      "currentStatus": "building..."
+    }
+  },
+  "sentinel": {
+    "title": "SYS_SENTINEL // NEURAL_AVATAR_V1",
+    "node": "NODE_0x7F",
+    "renderEngine": "REALTIME THREE.JS WEBGL RENDER",
+    "interaction": "INTERACTION: MOUSE_FOLLOW_ENABLED",
+    "fps": "FPS: 60 // GL_ALPHA",
+    "ticks": {
+      "topLeft": "[+0.00, +0.00, +5.20]",
+      "topRight": "ORBITAL_RING_ACTIVE",
+      "bottomLeft": "LEVITATION: SINE_CARRIER",
+      "bottomRight": "TRACKING // CURSOR_DELTA"
+    },
+    "subsystemStatus": "SUBSYSTEM: SYNCHRONIZED",
+    "chassis": "CHASSIS: TITANIUM_SLATE",
+    "telemetry": "VEC_ROT_DAMPING: 0.08 • ONLINE"
+  },
+  "about": {
+    "sectionNumber": "01",
+    "sectionTitle": "ABOUT",
+    "fileTag": "ENGINEERING_PROFILE.MD",
+    "paragraphs": [
+      "I'm a full-stack developer with a strong focus on backend systems and an increasing focus on AI engineering and research. I enjoy building things end-to-end, but I'm especially interested in understanding what happens underneath the abstractions.",
+      "My current work spans production APIs, distributed systems, model serving, vector search, reinforcement learning, RAG systems and experiments around more autonomous AI systems."
+    ],
+    "corePrinciple": {
+      "label": "Core Principle",
+      "title": "Zero Black Boxes.",
+      "description": "Prefer writing a pure C prototype or algorithmic simulation before delegating critical infrastructure to third-party SDKs.",
+      "location": "LOCATION: REMOTE / TEHRAN",
+      "status": "ONLINE"
+    },
+    "evolutionVector": [
+      {
+        "id": "00_INIT",
+        "title": "Full-Stack Dev",
+        "detail": "Web & DBs →",
+        "active": false
+      },
+      {
+        "id": "01_SCALE",
+        "title": "Backend & Dist.",
+        "detail": "Microservices →",
+        "active": false
+      },
+      {
+        "id": "02_MATH",
+        "title": "Machine Learning",
+        "detail": "Foundations →",
+        "active": false
+      },
+      {
+        "id": "03_NEURAL",
+        "title": "Deep Learning",
+        "detail": "Transformers →",
+        "active": false
+      },
+      {
+        "id": "04_AGENCY",
+        "title": "Reinforce. Learning",
+        "detail": "PPO / Control →",
+        "active": false
+      },
+      {
+        "id": "05_ACTIVE",
+        "title": "AI Research",
+        "detail": "Current Focus •",
+        "active": true
+      }
+    ]
+  },
+  "currentFocus": {
+    "sectionNumber": "02",
+    "sectionTitle": "CURRENT FOCUS",
+    "badge": "6 ACTIVE PARADIGMS",
+    "modules": [
+      {
+        "id": "MOD_01",
+        "title": "AI Systems",
+        "status": "LIVE",
+        "statusType": "tertiary",
+        "description": "Model serving, inference optimization, asynchronous worker APIs, deployment topologies, and resilient production AI lifecycles.",
+        "tags": ["FastAPI", "ONNX", "Docker"]
+      },
+      {
+        "id": "MOD_02",
+        "title": "Vector Search",
+        "status": "SYSTEMS",
+        "statusType": "tertiary",
+        "description": "ANN algorithms, Hierarchical Navigable Small World (HNSW) indexing, vector databases, and high-recall low-latency retrieval systems.",
+        "tags": ["HNSW", "C", "Cosine/L2"]
+      },
+      {
+        "id": "MOD_03",
+        "title": "RAG Architectures",
+        "status": "PRODUCTION",
+        "statusType": "secondary",
+        "description": "Multi-stage retrieval pipelines, context re-ranking, dynamic chunking strategies, dense embeddings, and hallucination reduction.",
+        "tags": ["Embeddings", "Qdrant", "Re-ranking"]
+      },
+      {
+        "id": "MOD_04",
+        "title": "Reinforcement Learning",
+        "status": "EXP",
+        "statusType": "primary",
+        "description": "Q-Learning, Deep Q-Networks (DQN), Proximal Policy Optimization (PPO), Actor-Critic paradigms, and custom simulation environments.",
+        "tags": ["PyTorch", "PPO", "State-Space"]
+      },
+      {
+        "id": "MOD_05",
+        "title": "AI Agents",
+        "status": "ACTIVE",
+        "statusType": "tertiary",
+        "description": "Autonomous tool invocation protocols, structured memory layers, reflection cycles, and robust multi-step reasoning systems.",
+        "tags": ["MCP", "Planning", "State Graph"]
+      },
+      {
+        "id": "MOD_06",
+        "title": "Cognitive AI Research",
+        "status": "RESEARCH",
+        "statusType": "primary",
+        "description": "Investigating human-like conversational mechanics, synthetic cognitive loops, epistemic curiosity, and autonomous information seeking.",
+        "tags": ["Notebooks", "Epistemic Drive", "Episodic Mem"]
+      }
+    ]
+  },
+  "projects": {
+    "sectionNumber": "03",
+    "sectionTitle": "SELECTED PROJECTS",
+    "badge": "INDEX: 5 CASE STUDIES",
+    "featured": [
+      {
+        "id": "01",
+        "category": "AI Research · Cognition",
+        "tag": "EXPERIMENTAL",
+        "title": "Human Brain",
+        "description": "An experimental AI research project exploring human-like conversational behavior, separate language and conversational datasets, internal state, memory and eventually autonomous information-seeking behavior.",
+        "tags": ["Python", "Deep Learning", "NLP", "AI Research"],
+        "repoUrl": "https://github.com",
+        "type": "cognitive-loop",
+        "diagram": {
+          "title": "INTERNAL COGNITIVE LOOP",
+          "status": "CYCLIC_FLOW",
+          "steps": [
+            {
+              "key": "ENV",
+              "label": "Environment Dynamics",
+              "icon": "sync_alt"
+            },
+            {
+              "arrow": "↓ ↑ Perception stream"
+            },
+            {
+              "key": "MEM",
+              "label": "Memory & Internal State",
+              "tag": "Vector + Graph"
+            },
+            {
+              "arrow": "↓ ↑ Epistemic arbitration"
+            },
+            {
+              "key": "CORE",
+              "label": "Reasoning & Action Selection",
+              "tag": "Active"
+            }
+          ]
+        }
+      },
+      {
+        "id": "02",
+        "category": "Systems · C",
+        "tag": "BARE METAL",
+        "title": "Vector DB From Scratch",
+        "description": "A C implementation exploring vector search and approximate nearest neighbor algorithms from the ground up without relying on heavy abstractions or third-party engines.",
+        "tags": ["Brute Force", "Top-K Heap", "HNSW", "Graph Search", "ANN"],
+        "repoUrl": "https://github.com",
+        "type": "vector-graph",
+        "diagram": {
+          "title": "HNSW GRAPH LAYER TOPOLOGY",
+          "metrics": "D=128 · M=16",
+          "subLeft": "SIMD Cosine Distance",
+          "subRight": "Zero-Allocation Loop"
+        }
+      },
+      {
+        "id": "03",
+        "category": "MLOps · Backend",
+        "tag": "PRODUCTION",
+        "title": "Model Serving Architecture",
+        "description": "Production-oriented AI model serving experiments focusing on low-latency inference pipelines, tensor serialization protocols, batch aggregation, and zero-downtime versioning.",
+        "tags": ["Python", "FastAPI", "ONNX Runtime", "Docker", "MLflow"],
+        "repoUrl": "https://github.com",
+        "type": "pipeline",
+        "diagram": {
+          "title": "INFERENCE DATA PIPELINE",
+          "latency": "P99 < 14ms",
+          "stages": [
+            { "name": "Client Request", "result": "→ [JSON Payload]", "color": "primary" },
+            { "name": "FastAPI Gateway", "result": "→ Validation", "color": "secondary" },
+            { "name": "Batch Scheduler", "result": "→ Tensor Packing", "color": "tertiary" },
+            { "name": "ONNX Execution", "result": "→ Graph Run", "color": "primary-fixed-dim" }
+          ]
+        }
+      }
+    ],
+    "compact": [
+      {
+        "id": "04",
+        "category": "AI Systems · Multi-Agent",
+        "tag": "AGENTIC",
+        "title": "Mini AI Assistant",
+        "description": "A modular AI assistant exploring agent orchestration, contextual vector retrieval, and structured tool invocation protocols (MCP standard).",
+        "tags": ["LLM", "RAG", "Qdrant", "MCP"],
+        "footerStatus": "Tool Call State Engine",
+        "repoUrl": "https://github.com"
+      },
+      {
+        "id": "05",
+        "category": "Machine Learning · RL",
+        "tag": "CONTROL LOOPS",
+        "title": "Reinforcement Learning Lab",
+        "description": "Experiments involving Q-Learning, DQN, Replay Buffer mechanics, Target Networks, PPO, and Actor-Critic applied to bespoke simulation environments.",
+        "tags": ["Grid World", "Snake Environment", "Policy Gradients"],
+        "footerStatus": "γ = 0.99 · ε-decay",
+        "repoUrl": "https://github.com"
+      }
+    ]
+  },
+  "experience": {
+    "sectionNumber": "04",
+    "sectionTitle": "PROFESSIONAL EXPERIENCE & WORKPLACES",
+    "tag": "PRODUCTION TRACK RECORD // 4.5+ YEARS",
+    "summary": "Full-stack backend and mobile developer with 4.5+ years of engineering experience across enterprise insurance platforms, electronic payment systems, cross-platform mobile apps (Flutter), and distributed services.",
+    "items": [
+      {
+        "id": "EXP_01",
+        "role": ".NET Backend Developer",
+        "company": "iBimeh (آی بیمه)",
+        "companyUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+        "location": "Tehran, Iran",
+        "type": "Full-Time",
+        "period": "Feb 2025 — Present",
+        "status": "CURRENT",
+        "description": "Architecting enterprise .NET backend microservices and mission-critical insurance calculation & policy issuance engines with high availability and throughput.",
+        "achievements": [
+          "Engineered resilient insurance rating and policy quotation APIs using .NET Core / ASP.NET with micro-caching on Redis.",
+          "Optimized database transactions, query performance, and relational schemas on PostgreSQL / SQL Server for high concurrency.",
+          "Integrated asynchronous messaging with RabbitMQ and event-driven logging for audit-grade financial transactions."
+        ],
+        "technologies": ["C#", ".NET Core", "ASP.NET", "PostgreSQL", "Redis", "RabbitMQ", "Docker", "Git"]
+      },
+      {
+        "id": "EXP_02",
+        "role": ".NET Software Engineer",
+        "company": "Hamrah Electronic Avaye Parsi (همراه الکترونیک آوای پارسی)",
+        "companyUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+        "location": "Tehran, Iran",
+        "type": "Full-Time",
+        "period": "Feb 2024 — Present",
+        "status": "CURRENT",
+        "description": "Developing robust backend electronic payment processing systems, value-added service platforms, and high-concurrency Web APIs.",
+        "achievements": [
+          "Implemented enterprise RESTful APIs using ASP.NET Core, Entity Framework Core, and clean architecture principles.",
+          "Constructed reliable background workers and automated reconciliation pipelines handling high daily transactions.",
+          "Designed and executed automated unit and integration test suites increasing codebase stability and fault tolerance."
+        ],
+        "technologies": ["C#", "ASP.NET Core", "SQL Server", "Redis", "Unit Testing", "Docker", "Windows Server"]
+      },
+      {
+        "id": "EXP_03",
+        "role": "Mobile Application Developer (Flutter)",
+        "company": "Green Food",
+        "companyUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+        "location": "Austria (Remote)",
+        "type": "International / Remote",
+        "period": "Feb 2024 — Oct 2025",
+        "status": "COMPLETED",
+        "description": "Engineered production cross-platform mobile application for European food ordering and logistics ecosystem using Flutter and Dart.",
+        "achievements": [
+          "Architected responsive, performant Flutter mobile interface with clean state management and dynamic localization.",
+          "Integrated real-time order tracking, push notifications, and payment gateways with seamless error recovery.",
+          "Achieved 60fps fluid UI animations and reduced app payload through asset compression and native bridge tuning."
+        ],
+        "technologies": ["Flutter", "Dart", "REST APIs", "State Management", "Android Development", "Git"]
+      },
+      {
+        "id": "EXP_04",
+        "role": "Flutter Mobile Developer",
+        "company": "FilmNab (فیلم ناب)",
+        "companyUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+        "location": "Tehran, Iran",
+        "type": "Contract",
+        "period": "Jul 2023 — Oct 2023",
+        "status": "COMPLETED",
+        "description": "Developed media streaming mobile client with custom video playback controls, offline caching, and responsive UI.",
+        "achievements": [
+          "Engineered adaptive video streaming and hardware-accelerated playback with subtitle customization and bandwidth auto-switching.",
+          "Implemented local encrypted download manager for offline video viewing with persistent progress tracking.",
+          "Collaborated on seamless integration with backend media CDNs and auth endpoints."
+        ],
+        "technologies": ["Flutter", "Dart", "Video Streaming", "REST APIs", "Android", "UI/UX"]
+      },
+      {
+        "id": "EXP_05",
+        "role": "Backend Developer",
+        "company": "Motahar Net Pars (موسسه مطهر نت پارس)",
+        "companyUrl": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/",
+        "location": "Tehran, Iran",
+        "type": "Full-Time",
+        "period": "Aug 2020 — May 2022",
+        "status": "COMPLETED",
+        "description": "Engineered core backend network management services, database management workflows, and enterprise automation tools.",
+        "achievements": [
+          "Developed web services and operational administration panels using C#, ASP.NET MVC, and SQL Server.",
+          "Automated infrastructure monitoring and reporting routines reducing manual diagnostic efforts.",
+          "Maintained network service backends with strict uptime requirements and relational database integrity."
+        ],
+        "technologies": ["C#", "ASP.NET", "SQL Server", "Windows Server", "JavaScript", "JQuery", "Git"]
+      }
+    ]
+  },
+  "principles": {
+    "sectionNumber": "04",
+    "sectionTitle": "HOW I BUILD",
+    "tag": "ENGINEERING PRINCIPLES",
+    "headline": "Engineering principles grounded in first principles.",
+    "items": [
+      {
+        "id": "01 // FIRST-PRINCIPLES",
+        "title": "Build From Fundamentals",
+        "description": "Understand the abstraction thoroughly before relying on it in critical code paths.",
+        "tag": "NO MAGIC LIBS"
+      },
+      {
+        "id": "02 // VERIFICATION",
+        "title": "Test First",
+        "description": "Design deterministic behavior through unit and boundary tests prior to implementation.",
+        "tag": "REPRODUCIBLE"
+      },
+      {
+        "id": "03 // SIMPLICITY",
+        "title": "Small Systems",
+        "description": "Prefer simple, understandable architecture over unnecessary multi-tier complexity.",
+        "tag": "MINIMAL SURFACE"
+      },
+      {
+        "id": "04 // PRODUCTION",
+        "title": "Production Mindset",
+        "description": "Build software that can actually run, be observed, tested, containerized, and monitored.",
+        "tag": "OBSERVABLE"
+      },
+      {
+        "id": "05 // PRAGMATISM",
+        "title": "Learn By Building",
+        "description": "Theory matters deeply, but implementation is where authentic understanding becomes real.",
+        "tag": "PRACTICE = TRUTH"
+      }
+    ]
+  },
+  "stack": {
+    "sectionNumber": "05",
+    "sectionTitle": "SYSTEM STACK",
+    "tag": "SYSTEM DEPENDENCIES // NO SKILL BARS",
+    "groups": [
+      {
+        "name": "BACKEND & STORAGE",
+        "icon": "dns",
+        "isWide": false,
+        "items": ["C#", "ASP.NET Core", "EF Core", "MediatR", "Redis", "Docker"]
+      },
+      {
+        "name": "AI / MACHINE LEARNING",
+        "icon": "memory",
+        "isWide": false,
+        "items": ["Python", "PyTorch", "ONNX", "MLflow", "Qdrant"]
+      },
+      {
+        "name": "SYSTEMS PROGRAMMING",
+        "icon": "terminal",
+        "isWide": false,
+        "items": ["Go", "C", "Linux (POSIX)", "Docker Containers"]
+      },
+      {
+        "name": "CLIENT-SIDE",
+        "icon": "web",
+        "isWide": false,
+        "items": ["TypeScript", "Vue.js", "Vite", "Tailwind CSS"]
+      },
+      {
+        "name": "AI CONCEPTS & ALGORITHMS EXPLORED",
+        "icon": "account_tree",
+        "isWide": true,
+        "items": [
+          "# RAG",
+          "# Vector Search",
+          "# ANN",
+          "# HNSW",
+          "# Reinforcement Learning",
+          "# Model Serving",
+          "# AI Agents"
+        ]
+      }
+    ]
+  },
+  "research": {
+    "sectionNumber": "06",
+    "sectionTitle": "RESEARCH / EXPERIMENTS",
+    "tag": "LAB NOTEBOOK · 2026",
+    "specimenTag": "FEATURED LAB SPECIMEN",
+    "specimenTitle": "Project Human Brain",
+    "specimenStatus": "ACTIVE HYPOTHESIS TESTING",
+    "hypotheses": [
+      {
+        "num": "HYPOTHESIS 01",
+        "question": "“Can an AI system move beyond simply mapping input to output?”",
+        "answer": "Traditional static inference processes tokens synchronously without true internal gestation. This research tests asynchronous internal recurrent processing states between queries."
+      },
+      {
+        "num": "HYPOTHESIS 02",
+        "question": "“Can an AI system maintain internal state, develop goals, recognize missing knowledge and proactively seek information?”",
+        "answer": "By separating episodic knowledge from runtime goals, the engine actively flags uncertainty thresholds to generate self-directed synthetic queries."
+      }
+    ],
+    "schematic": {
+      "title": "RESEARCH SCHEMATIC // AUTONOMOUS COGNITION LOOP",
+      "status": "↻ CONTINUOUS RECURSION",
+      "flow": [
+        "Environment",
+        "Perception",
+        "Internal State",
+        "Memory",
+        "Goals",
+        "Reasoning",
+        "Action ↺"
+      ]
+    },
+    "disclaimer": "Note: These are research questions and explorations into autonomous cognition, not claims of solved human-level intelligence."
+  },
+  "repositories": {
+    "sectionNumber": "07",
+    "sectionTitle": "GITHUB REPOSITORIES",
+    "tag": "AUTO_SYNC // GIT STATUS",
+    "list": [
+      {
+        "name": "mini-ai-assistant",
+        "visibility": "public",
+        "status": "main • synced",
+        "description": "Modular AI assistant exploring LLM agent orchestration, contextual vector retrieval, and MCP tool protocols.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "updated": "Updated recently",
+        "url": "https://github.com/AmirHosseinBaderan/mini-ai-assistant"
+      },
+      {
+        "name": "mnist-from-scratch",
+        "visibility": "public",
+        "status": "main • synced",
+        "description": "Neural network and deep learning mathematical foundations implemented in pure Python from first principles.",
+        "language": "Python",
+        "languageColor": "#4cd7f6",
+        "updated": "Updated recently",
+        "url": "https://github.com/AmirHosseinBaderan/mnist-from-scratch"
+      },
+      {
+        "name": "Windows_Accounting",
+        "visibility": "public",
+        "status": "main • synced",
+        "description": "Comprehensive accounting and enterprise ledger management system built with C# and .NET Windows architecture.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "updated": "Updated recently",
+        "url": "https://github.com/AmirHosseinBaderan/Windows_Accounting"
+      },
+      {
+        "name": "Rubika",
+        "visibility": "public",
+        "status": "main • synced",
+        "description": "High-performance .NET bot and communication library for the Rubika platform (published as Rubika.Package on NuGet).",
+        "language": "C#",
+        "languageColor": "#4edea3",
+        "updated": "NuGet v2.0.0",
+        "url": "https://github.com/AmirHosseinBaderan/Rubika"
+      },
+      {
+        "name": "vector-engine-c",
+        "visibility": "public",
+        "status": "main • synced",
+        "description": "Bare-metal C ANN library with HNSW indexing and SIMD dot-product operations.",
+        "language": "C",
+        "languageColor": "#00a2e6",
+        "updated": "Updated 2d ago",
+        "url": "https://github.com/AmirHosseinBaderan/vector-engine-c"
+      }
+    ]
+  },
+  "contact": {
+    "sectionNumber": "08",
+    "sectionTitle": "CONTACT",
+    "tag": "PORT: OPEN",
+    "heading": "Let's build something.",
+    "description": "For software engineering, AI systems, research or interesting technical projects. Always interested in deep systems challenges.",
+    "emailLabel": "DIRECT COMMUNICATION",
+    "email": "amirhosseinbaderan.dev@proton.me",
+    "links": [
+      {
+        "name": "GitHub",
+        "icon": "terminal",
+        "url": "https://github.com/amirhosseinbaderan"
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "link",
+        "url": "https://www.linkedin.com/in/amir-hossein-baderan-9018b9213/"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Amir Hossein Baderan · Built with curiosity, code and experiments"
+  }
+}

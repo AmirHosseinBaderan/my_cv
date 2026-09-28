@@ -1,0 +1,6 @@
+{
+  "name": "Amir Hossein - Systems & AI Portfolio",
+  "description": "Systems engineering and AI research portfolio showcase built with Vue, Vite, and Three.js, driven by an editable JSON data file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
